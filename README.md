@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋</h1>
-<h2 align="center" >I am Nuwani Hansika 🤗</h2>h2>
+<h2 align="center" >I am Nuwani Hansika 😊</h2>
 
 <p align="center">I am Currently an Undergraduate student at University of Peradeniya .I am eager to explore the world of Software Engineering and put my skills to the test.</p>
 
