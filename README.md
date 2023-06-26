@@ -3,8 +3,9 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋</h1>
+<h2 align="center" >I am Nuwani Hansika 🤗</h2>h2>
 
-<p align="center">I am Nuwani Hansika , Currently an Undergraduate student at University of Peradeniya .I am eager to explore the world of Software Engineering and put my skills to the test.</p>
+<p align="center">I am Currently an Undergraduate student at University of Peradeniya .I am eager to explore the world of Software Engineering and put my skills to the test.</p>
 
 <!-- Skills -->
 <h2 align="center">🚀 Skills</h2>
@@ -41,8 +42,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical" alt="Github Stats">
 </p>
-<!-- <p align="center">
-   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical" alt="Github Stats">
+ <p align="center">
+   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical&theme=radical" alt="Github Stats">
 </p> -->
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
