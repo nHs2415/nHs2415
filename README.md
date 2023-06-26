@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/OOP-5B4CAC?style=for-the-badge" alt="OOP">
 </p>
 
-
-
 <!-- Github Stats -->
 <h2 align="center">📈 Github Stats</h2>
 
@@ -44,7 +42,7 @@
 </p>
  <p align="center">
    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical&theme=radical" alt="Github Stats">
-</p> -->
+</p> 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
 
