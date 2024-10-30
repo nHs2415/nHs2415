@@ -1,4 +1,5 @@
-# Introducing Nuwani Hansika - A Rising Software Engineering Enthusiast
+<h1 style="animation: blink 1s linear infinite; color: #7289da;">Introducing Nuwani Hansika - A Rising Software Engineering Enthusiast</h1>
+
 <p align="center">
  <img src="https://avatars.githubusercontent.com/u/67169282?v=4" width="200" alt="Nuwani Hansika">
 </p>
@@ -24,8 +25,8 @@ I'm Nuwani Hansika, a passionate undergraduate student at the University of Pera
 
 ## 📈 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical" alt="Nuwani's GitHub Stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical&theme=radical" alt="Top Languages">
+ <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical" alt="Nuwani's GitHub Stats" style="animation: pulse 2s ease-in-out infinite;">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical&theme=radical" alt="Top Languages" style="animation: tada 2s ease-in-out infinite;">
 </p>
 
 ## 🤝 Let's Connect
@@ -39,9 +40,45 @@ I'm Nuwani Hansika, a passionate undergraduate student at the University of Pera
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nHs2415&theme=onedark" alt="Nuwani's GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=nHs2415&theme=onedark" alt="Nuwani's GitHub Trophies" style="animation: bounce 2s ease-in-out infinite;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nHs2415&theme=radical" alt="Nuwani's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nHs2415&theme=radical" alt="Nuwani's GitHub Streak" style="animation: swing 2s ease-in-out infinite;">
 </p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+@keyframes tada {
+  0% { transform: scale(1); }
+  10%, 20% { transform: scale(0.9) rotate(-3deg); }
+  30%, 50%, 70%, 90% { transform: scale(1.1) rotate(3deg); }
+  40%, 60%, 80% { transform: scale(1.1) rotate(-3deg); }
+  100% { transform: scale(1) rotate(0); }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-30px); }
+  60% { transform: translateY(-15px); }
+}
+
+@keyframes swing {
+  20% { transform: rotate(15deg); }
+  40% { transform: rotate(-10deg); }
+  60% { transform: rotate(5deg); }
+  80% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
