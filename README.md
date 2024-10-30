@@ -1,4 +1,4 @@
-<h1 style="animation: blink 1s linear infinite; color: #7289da;">Introducing Nuwani Hansika - A Rising Software Engineering Enthusiast</h1>
+# <h1 style="animation: blink 1s linear infinite; color: #7289da;">Introducing Nuwani Hansika - A Rising Software Engineering Enthusiast</h1>
 
 <p align="center">
  <img src="https://avatars.githubusercontent.com/u/67169282?v=4" width="200" alt="Nuwani Hansika">
