@@ -1,5 +1,4 @@
 # Introducing Nuwani Hansika - A Rising Software Engineering Enthusiast
-
 <p align="center">
  <img src="https://avatars.githubusercontent.com/u/67169282?v=4" width="200" alt="Nuwani Hansika">
 </p>
@@ -8,8 +7,6 @@
 I'm Nuwani Hansika, a passionate undergraduate student at the University of Peradeniya. I'm eager to explore the world of Software Engineering and put my skills to the test.
 
 ## 🚀 Skills
-I've developed proficiency in the following technologies:
-
 <p align="center">
  <img src="https://img.shields.io/badge/HTML-5E463B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
  <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -20,27 +17,18 @@ I've developed proficiency in the following technologies:
 </p>
 
 ## 🌱 Currently Learning
-I'm currently expanding my knowledge by learning:
-
 <p align="center">
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
  <img src="https://img.shields.io/badge/OOP-5B4CAC?style=for-the-badge" alt="OOP">
 </p>
 
 ## 📈 GitHub Stats
-Here are some statistics about my GitHub activity:
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical" alt="Nuwani's GitHub Stats">
-</p>
-
-<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical&theme=radical" alt="Top Languages">
 </p>
 
 ## 🤝 Let's Connect
-I'd love to connect with you! You can find me on:
-
 <p align="center">
  <a href="https://www.linkedin.com/in/nuwani-sirinayaka-lokuge-023b5223a/">
    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
@@ -48,4 +36,12 @@ I'd love to connect with you! You can find me on:
  <a href="mailto:nuwanihansi92@gmail.com">
    <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nHs2415&theme=onedark" alt="Nuwani's GitHub Trophies">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nHs2415&theme=radical" alt="Nuwani's GitHub Streak">
 </p>
