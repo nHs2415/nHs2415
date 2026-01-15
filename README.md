@@ -25,11 +25,13 @@ I'm Nuwani Hansika, a passionate undergraduate student at the University of Pera
   <img src="https://img.shields.io/badge/Cucumber-4C9F38?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber">
 </p>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical" alt="Nuwani's GitHub Stats" style="animation: pulse 2s ease-in-out infinite;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical&count_private=true&hide=prs,issues" alt="Nuwani's GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=compact&theme=radical" alt="Top Languages" width="49%">
 </p>
+
 
 ## 🤝 Let's Connect
 <p align="center">
