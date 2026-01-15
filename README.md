@@ -1,6 +1,4 @@
-# Introducing Nuwani Hansika - A Software Engineering Enthusiast
-
-
+# Introducing Nuwani Sandamali - A Passionate Software Quality Assurance Engineer
 
 ## 👋 Hi there!
 I'm Nuwani Hansika, a passionate undergraduate student at the University of Peradeniya. I'm eager to explore the world of Software Engineering and put my skills to the test.
@@ -13,23 +11,29 @@ I'm Nuwani Hansika, a passionate undergraduate student at the University of Pera
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/OOP-5B4CAC?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/Data_Structures-FF6F61?style=for-the-badge" alt="Data Structures">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Cucumber-4C9F38?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber">
+  <img src="https://img.shields.io/badge/Manual_Testing-FC5185?style=for-the-badge" alt="Manual Testing">
+  <img src="https://img.shields.io/badge/Gherkin-6CC24A?style=for-the-badge" alt="Gherkin">
 </p>
 
 ## 🌱 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/OOP-5B4CAC?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Cucumber-4C9F38?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber">
 </p>
 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nHs2415&show_icons=true&theme=radical" alt="Nuwani's GitHub Stats" style="animation: pulse 2s ease-in-out infinite;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=donut-vertical&theme=radical" alt="Top Languages" style="animation: tada 2s ease-in-out infinite;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nHs2415&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/nuwani-sirinayaka-lokuge-023b5223a/">
+  <a href="https://www.linkedin.com/in/nuwanihansika/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:nuwanihansi92@gmail.com">
